@@ -6,6 +6,17 @@ Jeu de combat en plateforme, simple et nerveux, dans une seule page HTML.
 - **En ligne** : jusqu'à 4 joueurs en pair-à-pair (WebRTC via [PeerJS](https://peerjs.com)), sans serveur de jeu.
   Entrez le même nom de salon, ou partagez le lien `…/#nom-du-salon`.
 
+## Combattants
+
+| Perso | Style | Spécial | Côté + spécial | ↑ + spécial | ↓ + spécial |
+|---|---|---|---|---|---|
+| Pugi | Équilibré | Boule d'énergie | Smash | Fusée | Piqué |
+| Gonflor | Bonhomme en pneus, très lourd | Pneu roulant | Roue libre | Gonflage | Rebond sismique (ondes de choc) |
+| Paillette | Licorne rapide, 2 sauts en l'air | Rayon arc-en-ciel | Charge de la corne | Fusée arc-en-ciel | Explosion de paillettes |
+| Picaillon | Canard millionnaire | Pluie de pièces | Coup de sac d'or | Geyser d'or | Coffre-fort |
+| Dr Pinces | Docteur extraterrestre à pinces | Jet d'encre | Danse du crabe (multi-coups) | Bond de crabe | Double pince |
+| Tofou | Cube de tofu léger et sauteur | Tofu frit (contre) | Glissade soja | Ressort | Bloc de tofu (invincible) |
+
 ## Contrôles
 
 | Action | Joueur 1 / en ligne | Joueur 2 | Manette |
